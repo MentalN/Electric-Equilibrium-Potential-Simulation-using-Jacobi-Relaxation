@@ -8,3 +8,5 @@ The program outputs:
 - A gradient graph of the electrical potential between two metal plates in 2D.
 - 3D gradient graph of the electrical potential of a box with user defined position of volume slices.
 - Visualization of the electric field vectors direction (both in 3D and 2D simulations).
+
+Reference Used: Computational Physics 2nd Edition - Nicholas J. Giordano and Hisao Nakanishi.
